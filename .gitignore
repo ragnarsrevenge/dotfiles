@@ -1,0 +1,2 @@
+# excluded to avoid submitted api key
+config/polybar/scripts/openweathermap-fullfeatured.sh
